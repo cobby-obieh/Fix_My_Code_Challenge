@@ -9,4 +9,4 @@ contained follows:
 * [0x00. Fix my code](./0x00-challenge)
 
 ## Author
-* _Nicholas M Mwanza_ <[Nicky-muindi](https://github.com/Nicky-muindi)>
+* _Kwabena Osei-Owusu_ <[cobby-obieh](https://github.com/cobby-obieh)>
